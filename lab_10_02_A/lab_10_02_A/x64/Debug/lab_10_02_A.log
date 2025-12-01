@@ -1,0 +1,20 @@
+﻿  Menu.cpp
+F:\Project\lab_10_02_A\ISpeciality.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Menu.cpp')
+  
+  StudentManager.cpp
+F:\Project\lab_10_02_A\ISpeciality.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'StudentManager.cpp')
+  
+F:\Project\lab_10_02_A\StudentManager.cpp(54,58): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+F:\Project\lab_10_02_A\StudentManager.cpp(54,58): warning C4267:         with
+F:\Project\lab_10_02_A\StudentManager.cpp(54,58): warning C4267:         [
+F:\Project\lab_10_02_A\StudentManager.cpp(54,58): warning C4267:             _Ty=int
+F:\Project\lab_10_02_A\StudentManager.cpp(54,58): warning C4267:         ]
+F:\Project\lab_10_02_A\StudentManager.cpp(84,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  source.cpp
+F:\Project\lab_10_02_A\ISpeciality.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'source.cpp')
+  
+  Generating Code...
+  lab_10_02_A.vcxproj -> F:\Project\lab_10_02_A\x64\Debug\lab_10_02_A.exe
