@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  UnitTest10.2.В.cpp
+F:\Project\lab_10_2_B\StudentManager.cpp(71,58): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+F:\Project\lab_10_2_B\StudentManager.cpp(71,58): warning C4267:         with
+F:\Project\lab_10_2_B\StudentManager.cpp(71,58): warning C4267:         [
+F:\Project\lab_10_2_B\StudentManager.cpp(71,58): warning C4267:             _Ty=int
+F:\Project\lab_10_2_B\StudentManager.cpp(71,58): warning C4267:         ]
+  (compiling source file '/UnitTest10.2.В.cpp')
+  
+F:\Project\lab_10_2_B\StudentManager.cpp(107,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest10.2.В.cpp')
+  
+     Creating library F:\Project\lab_10_2_B\x64\Debug\UnitTest10.2.В.lib and object F:\Project\lab_10_2_B\x64\Debug\UnitTest10.2.В.exp
+LINK : warning LNK4232: name UnitTest10.2.В.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest10.2.В.vcxproj -> F:\Project\lab_10_2_B\x64\Debug\UnitTest10.2.В.dll
